@@ -1,0 +1,8 @@
+altair
+pandas
+streamlit
+vega_datasets
+arrow
+beautifulsoup4
+requests
+
